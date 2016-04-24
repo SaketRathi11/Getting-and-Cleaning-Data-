@@ -10,6 +10,10 @@ Objective-
 3.	Uses descriptive activity names to name the activities in the data set
 4.	Appropriately labels the data set with descriptive variable names. 
 5.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+	
+
 3) Codebook- This contains description of all the variables used.
+
+
 4) Output file named –“tidy.txt”. A text file containing output generated with the given R script (run_analysis.R) on the      given data (step1). 
 
